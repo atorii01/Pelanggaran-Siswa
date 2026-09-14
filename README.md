@@ -47,7 +47,7 @@ WinFormsApp_Pelanggaran_Siswa/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/WinFormsApp_Pelanggaran_Siswa.git
+   git clone https://github.com/atorii01/Pelanggaran-Siswa.git
    ```
 2. **Buka Project di Visual Studio**
    - Buka file solution `WinFormsApp_Pelanggaran_Siswa.sln` menggunakan **Visual Studio 2022**.
